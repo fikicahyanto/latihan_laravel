@@ -1,3 +1,2 @@
 <?php
- echo "halo" ;
- echo "Mochammad Imron" ;
+echo "halo";
