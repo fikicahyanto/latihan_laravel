@@ -1,2 +1,1 @@
-<?php echo "halo" ?>
-<?= "Agus Kurniawan"; ?>
+<?php echo "halo"
