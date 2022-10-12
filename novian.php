@@ -1,3 +1,3 @@
-Novian Adi Prasetyo
-085799255070
-IT Telkom Purwokerto
+Nama : Novian Adi Prasetyo
+Telp : 085799255070
+Institusi : IT Telkom Purwokerto
