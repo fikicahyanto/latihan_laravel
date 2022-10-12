@@ -1,3 +1,1 @@
-<?php
-echo "halo";
-echo "zulkarnaim";
+<?php echo "halo";
