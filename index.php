@@ -1,1 +1,6 @@
-<?php echo "halo" ?>
+<?php 
+    echo "halo";
+    
+    echo "haslo Mahmudi";
+
+?>
