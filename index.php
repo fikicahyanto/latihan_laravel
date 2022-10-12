@@ -1,1 +1,2 @@
-<?php echo "halo nama saya Novian Adi Prasetyo" ?>
+<?php
+echo "halo";
