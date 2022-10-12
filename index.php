@@ -1,5 +1,3 @@
-<?php echo "halo" ?>
-<?php echo "Untung Simpati Bimantara" ?>
+<?php echo "halo";
 
-Halo bro
-bingung....bingung
+
